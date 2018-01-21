@@ -1,11 +1,11 @@
 # Forked
 I forked this code from worawit/MS17-010 (https://github.com/worawit/MS17-010) See his github for the original files.
 
-I tested his eternalblue_exploit7.py script and it worked against the following:
-OS Name:                   Microsoft® Windows Server® 2008 Standard
-System Type:               X86-based PC
-Which is more than I can say for this exploit available on Exploit-db:
-https://www.exploit-db.com/exploits/42315/
+I tested his eternalblue_exploit7.py script and it worked against the following:<br/>
+OS Name:                   Microsoft® Windows Server® 2008 Standard<br />
+System Type:               X86-based PC<br />
+Which is more than I can say for this exploit available on Exploit-db:<br />
+https://www.exploit-db.com/exploits/42315/<br />
 
 
 # MS17-010
