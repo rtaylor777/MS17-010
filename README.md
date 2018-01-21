@@ -4,8 +4,9 @@ I forked this code from worawit/MS17-010 (https://github.com/worawit/MS17-010) S
 I tested his eternalblue_exploit7.py script and it worked against the following:<br/>
 OS Name:                   Microsoft® Windows Server® 2008 Standard<br />
 System Type:               X86-based PC<br />
-Which is more than I can say for this exploit available on Exploit-db:<br />
-https://www.exploit-db.com/exploits/42315/<br />
+
+Here is my writeup of the test:<br />
+https://a41l4.blogspot.ca/2018/01/eternalblue-test-for-windows-server.html<br />
 
 
 # MS17-010
